@@ -1,4 +1,4 @@
-var animal = ["Dog", "Cat"];
+var animal = ["dog", "cat"];
 
 function myAnimal() {
   return animal[0];
